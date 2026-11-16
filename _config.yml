@@ -24,7 +24,7 @@ repository               : "n17s/n17s.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nikos Karampatziakis"
   pronouns         : # example: "she/her"  
   bio              : "Seize the memes of production"
